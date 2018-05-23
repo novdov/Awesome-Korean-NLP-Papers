@@ -174,7 +174,7 @@ Please, do not hesitate to create an issue. It always helps this repository to b
 | 2017. 6.  | KCC                                      | [형태 의미 정보를 이용한 한국어 의미역 결정](http://www.eiric.or.kr/community/post2.php?m=view&gubun=201704&num=8851&pg=2&seGubun=9&seGubun1=&SnxGubun=%B1%B8%B5%CE&searchBy=Subject&searchWord=) | F1:77.36                         |
 | 2017. 6.  | KCC                                      | [문자 기반 LSTM CRF를 이용한 한국어 의미역 결정](https://www.dbpia.co.kr/Journal/ArticleDetail/NODE07207765) |                                  |
 | 2017      | International Journal<br />of Database Theory<br />and Application | [A Study of Dictionary Based<br />Korean Semantic Role Labeling](http://www.sersc.org/journals/IJDTA/vol10_no7/6.pdf) |                                  |
-| 2017. 10. | HCLT                                     | Highway BiLSTM-CRFs 모델을 이용한<br />한국어 의미역 결정 |                                  |
+| 2017. 10. | HCLT                                     | [Highway BiLSTM-CRFs 모델을 이용한<br />한국어 의미역 결정](http://ocean.kisti.re.kr/IS_mvpopo213L.do?ResultTotalCNT=72&pageNo=3&pageSize=10&method=view&acnCn1=&poid=sighlt&kojic=OOGHAK&sVnc=y2017m10a&id=9&setId=&iTableId=&iDocId=&sFree=&pQuery=%28kojic%3AOOGHAK%29+AND+%28voliss_ctrl_no%3Ay2017m10a%29) |                                  |
 
 
 
@@ -276,7 +276,7 @@ Please, do not hesitate to create an issue. It always helps this repository to b
 | 2017. 6.  | KCC                      | [End-to-end learning을 이용한 한국어 단문 응답 시스템 개발](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07207353) |                                          |
 | 2017. 8.  | 컴퓨터교육학회                  | Hybrid Code Network를 이용한 한국어 식당 예약 시스템 모델 |                                          |
 | 2017. 10. | HCLT                     | [MTRNN을 이용한 한국어 대화 모델 생성](http://bozon.nlp.wo.tc/?f=159e856b9eea81)                  | BLEU4:0.22                               |
-| 2017. 10. | HCLT                     | 도메인 특정 지식을 결합한 End-to-End Learning 방식의<br />한국어 식당 예약 대화 시스템 모델 개발 | Per Response:0.95<br />Per Dialogue:0.64 |
+| 2017. 10. | HCLT                     | [도메인 특정 지식을 결합한 End-to-End Learning 방식의<br />한국어 식당 예약 대화 시스템 모델 개발](http://ocean.kisti.re.kr/IS_mvpopo213L.do?ResultTotalCNT=72&pageNo=3&pageSize=10&method=view&acnCn1=&poid=sighlt&kojic=OOGHAK&sVnc=y2017m10a&id=0&setId=&iTableId=&iDocId=&sFree=&pQuery=%28kojic%3AOOGHAK%29+AND+%28voliss_ctrl_no%3Ay2017m10a%29) | Per Response:0.95<br />Per Dialogue:0.64 |
 
 
 
@@ -309,7 +309,7 @@ Please, do not hesitate to create an issue. It always helps this repository to b
 | 2015. 12. | 정보과학회<br />동계학술대회        | Recurrent Neural Network를 이용한 이미지 캡션 생성  |
 | 2016. 8.  | 정보과학회논문지                 | [Recurrent Neural Network를 이용한 이미지 캡션 생성](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE06737196) |
 | 2016. 12. | 정보과학회<br />동계학술대회        | [딥러닝을 이용한 한국어 이미지 캡션 생성](http://www.eiric.or.kr/community/post2.php?m=view&gubun=201612&num=6779&pg=1&seGubun=13&seGubun1=&SnxGubun=%C6%F7%BD%BA%C5%CD&searchBy=&searchWord=) |
-| 2017. 10. | HCLT                     | LSTM을 이용한 한국어 이미지 캡션 생성                  |
+| 2017. 10. | HCLT                     | [LSTM을 이용한 한국어 이미지 캡션 생성](http://ocean.kisti.re.kr/IS_mvpopo213L.do?ResultTotalCNT=72&pageNo=2&pageSize=10&method=view&acnCn1=&poid=sighlt&kojic=OOGHAK&sVnc=y2017m10a&id=5&setId=&iTableId=&iDocId=&sFree=&pQuery=%28kojic%3AOOGHAK%29+AND+%28voliss_ctrl_no%3Ay2017m10a%29)                  |
 
 
 
@@ -358,7 +358,7 @@ Please, do not hesitate to create an issue. It always helps this repository to b
 | --------- | -------------------------------- | ---------------------------------------- | -------- |
 | 2015. 1.  | Pattern Recognition<br />Letters | [New feature weighting approaches for speech-act classification](https://www.sciencedirect.com/science/article/pii/S0167865514002803) |          |
 | 2017. 6.  | KCC                              | [대화문맥을 이용한 심층학습 기반 다중-태그 화행분석 모델](http://www.eiric.or.kr/community/post2.php?m=view&gubun=201704&num=8852&pg=2&seGubun=9&seGubun1=&SnxGubun=%B1%B8%B5%CE&searchBy=&searchWord=) |          |
-| 2017. 10. | HCLT                             | CNN-LSTM 신경망을 이용한 발화 분석 모델               |          |
+| 2017. 10. | HCLT                             | [CNN-LSTM 신경망을 이용한 발화 분석 모델](http://ocean.kisti.re.kr/IS_mvpopo213L.do?ResultTotalCNT=72&pageNo=3&pageSize=10&method=view&acnCn1=&poid=sighlt&kojic=OOGHAK&sVnc=y2017m10a&id=2&setId=&iTableId=&iDocId=&sFree=&pQuery=%28kojic%3AOOGHAK%29+AND+%28voliss_ctrl_no%3Ay2017m10a%29)               |          |
 | 2017. 10. | HCLT                             | [CNN을 이용한 발화 주제 다중 분류](http://blog.naver.com/PostView.nhn?blogId=naver_search&logNo=221123989668) | F1:98.73 |
 
 
@@ -415,5 +415,5 @@ Please, do not hesitate to create an issue. It always helps this repository to b
 
 | Date      | Conference<br />/Journal | Paper                           |
 | --------- | ------------------------ | ------------------------------- |
-| 2017. 10. | HCLT                     | 식당 예약 대화 시스템 개발을 위한 한국어 데이터셋 구축 |
+| 2017. 10. | HCLT                     | [식당 예약 대화 시스템 개발을 위한 한국어 데이터셋 구축](http://ocean.kisti.re.kr/IS_mvpopo213L.do?ResultTotalCNT=72&pageNo=6&pageSize=10&method=view&acnCn1=&poid=sighlt&kojic=OOGHAK&sVnc=y2017m10a&id=3&setId=&iTableId=&iDocId=&sFree=&pQuery=%28kojic%3AOOGHAK%29+AND+%28voliss_ctrl_no%3Ay2017m10a%29) |
 
